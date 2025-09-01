@@ -1,4 +1,4 @@
-# Salut, moi c’est Phil / Philippe  
+# Salut, moi c’est Philippe (pitié appelez-moi Phil)  
 
 **Développeur front-end junior** (React.TS) avec un intérêt marqué pour l’UX, l’accessibilité, l’éco-conception.
 Actuellement en auto-formation, je remplis en ce moment mon portfolio de divers projets.
@@ -42,3 +42,6 @@ Objectif : gagner en autonomie et décrocher un premier poste.
 ---
 
 N’hésitez pas à me contacter pour parler d'une potentielle collaboration ! (bénéficiaire de diverses **aides à l'emploi** en bonus)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unphixedBug)](https://github.com/anuraghazra/github-readme-stats)
+
