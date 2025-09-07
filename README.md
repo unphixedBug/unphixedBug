@@ -4,22 +4,17 @@
 Actuellement en auto-formation, je remplis en ce moment mon portfolio de divers projets.
 Objectif : gagner en autonomie et décrocher un premier poste.
 
----
-
 ## 🚧 Ce que je fais en ce moment
 - Quelques projets non finis de ma formation BeCode
 - Refonte de **RateYourMusic**
 - Exploration de divers outils de l'écosystème
 
----
-
 ## ⚛ Techno & outils que j’utilise
-- **Front-end** : React, TypeScript, Vite, pnpm
-- **Styling** : Tailwind, PandaCSS (tests), Sass, Shadcn
+- Logique **Front-end** avec React, TypeScript
+- **Build moderne** avec Vite et pnpm
+- **Styling** avec Tailwind, Sass, Shadcn et (PandaCSS en test)
 - **Outils** : Notion, Figma  
 - **Intérêts annexes** : auto-hébergement, optimisation éthique de l’IA  
-
----
 
 ## 🎶 En dehors du code
 - Passion pour la **musique** (je passe beaucoup de temps à découvrir de nouvelles choses)  
@@ -27,15 +22,10 @@ Objectif : gagner en autonomie et décrocher un premier poste.
 - Sciences: astrophysique, biologie, phylogénétique  
 - Causes sociales, écologie, monde animal
 
----
-
 ## 🎯 Objectifs actuels
 - Construire des **projets solides** pour monter en compétences et devenir autonome
 - Gagner en aisance sur **TypeScript**      
 
----
-
 N’hésitez pas à me contacter pour parler d'une potentielle collaboration ! (bonus: je suis bénéficiaire de diverses **aides à l'emploi**)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unphixedBug)](https://github.com/anuraghazra/github-readme-stats)
-
