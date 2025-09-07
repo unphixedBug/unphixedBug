@@ -1,7 +1,7 @@
 # Salut, moi c’est Philippe (pitié appelez-moi Phil)  
 
-**Développeur front-end junior** (React.TS) souhaitant me spécialisé en accessibilité, en éco-conception et en UX.
-Actuellement en auto-formation, je remplis en ce moment mon portfolio de divers projets.
+**Développeur front-end junior** (React.TS) souhaitant me spécialiser en accessibilité, en éco-conception et en UX.
+Actuellement en auto-formation, c'est remplissage de portfolio.
 Objectif : gagner en autonomie et décrocher un premier poste.
 
 ## 🚧 Ce que je fais en ce moment
