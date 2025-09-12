@@ -1,4 +1,4 @@
-# Salut, moi c’est Philippe (pitié appelez-moi Phil)  
+# Salut, moi c’est Philippe (appelez-moi Phil)  
 
 **Développeur front-end junior** (React.TS) souhaitant me spécialiser en accessibilité, en éco-conception et en UX.  
 Actuellement en auto-formation, c'est donc remplissage de portfolio.  
